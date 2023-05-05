@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16551257345",
+    "project_id": "in-app-message-5fc4e",
+    "storage_bucket": "in-app-message-5fc4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16551257345:android:3d85ccd361730ad3fee700",
+        "android_client_info": {
+          "package_name": "com.onesignal.in_appmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16551257345-pe9dphv9i08hngko6fbdh0cdtmlfmd2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onesignal.in_appmessaging",
+            "certificate_hash": "570f77625e84b4344ceead5b7951922c6677a9d5"
+          }
+        },
+        {
+          "client_id": "16551257345-kcp1mh4rrfgci8ah5c7fmm2ttl9l3e0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaETValm7uqymH3EUpraVCohYSR22Io0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16551257345-kcp1mh4rrfgci8ah5c7fmm2ttl9l3e0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

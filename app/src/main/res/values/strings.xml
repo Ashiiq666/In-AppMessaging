@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">In-App Messaging</string>
+
+<!--  #means type your onesignal app id here-->
+    <string name="ONESIGNAL_APP_ID">#####################################</string>
+
+</resources>
