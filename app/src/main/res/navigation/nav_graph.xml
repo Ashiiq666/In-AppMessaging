@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.onesignal.in_appmessaging.MainFragment"
+        android:name="com.onesignal.in_appmessaging.fragment.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" >
         <action
@@ -18,7 +18,7 @@
 
     <fragment
         android:id="@+id/productFragment"
-        android:name="com.onesignal.in_appmessaging.ProductFragment"
+        android:name="com.onesignal.in_appmessaging.fragment.ProductFragment"
         android:label="fragment_product"
         tools:layout="@layout/fragment_product">
         <deepLink
